@@ -1,6 +1,6 @@
 # 🎉 Amigo Secreto - Desafio de Lógica de Programação 🎉
 
-Bem-vindo ao **Amigo Secreto Aleatório**, um projeto desenvolvido como parte do desafio de lógica de programação do **Oracle Next Education (ONE)**! Este projeto é uma aplicação simples e divertida que permite aos usuários organizar um sorteio de amigo secreto de forma fácil e eficiente.
+Bem-vindo ao **Amigo Secreto Aleatório**, um projeto desenvolvido como parte do desafio de lógica de programação do **Oracle Next Education (ONE)**! Este projeto é uma aplicação que permite aos usuários organizar um sorteio de amigo secreto de forma fácil e eficiente.
 
 ## 🚀 Funcionalidades
 
