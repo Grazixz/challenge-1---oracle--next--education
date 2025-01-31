@@ -27,7 +27,7 @@ Bem-vindo ao **Amigo Secreto Aleatório**, um projeto desenvolvido como parte do
 
 ---
 
-Feito com ❤️ por [Graziela] como parte do desafio de lógica de programação do **Oracle Next Education**.  
+Feito com ❤️ por *Graziela* como parte do desafio de lógica de programação do **Oracle Next Education**.  
 🌟 **Vamos codar!** 🌟
 
 ---
