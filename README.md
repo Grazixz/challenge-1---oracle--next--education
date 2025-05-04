@@ -27,9 +27,3 @@ Bem-vindo ao **Amigo Secreto Aleatório**, um projeto desenvolvido como parte do
 
 ---
 
-Feito com ❤️ por *Graziela* como parte do desafio de lógica de programação do **Oracle Next Education**.  
-🌟 **Vamos codar!** 🌟
-
----
-
-**Nota:** Este projeto foi desenvolvido como parte de um desafio de lógica de programação, com o objetivo de praticar e aprimorar habilidades em HTML, CSS e JavaScript.
